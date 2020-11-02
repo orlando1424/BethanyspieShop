@@ -24,8 +24,12 @@ namespace BethanysPieShop
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+               
+               
             }
 
+            app.UseStatusCodePages();
+            app.UseStaticFiles();
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>
