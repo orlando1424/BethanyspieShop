@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{669F8B67-B75D-4A38-84F4-F749DD74B6C5}|Default">
+  <MonoDevelop.Ide.ItemProperties.BethanysPieShop PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BethanysPieShop" expanded="True" selected="True">
+            <Node name="BethanysPieShop" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
