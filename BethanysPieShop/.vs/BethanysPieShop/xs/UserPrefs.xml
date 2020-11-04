@@ -1,12 +1,21 @@
 ﻿<Properties StartupConfiguration="{669F8B67-B75D-4A38-84F4-F749DD74B6C5}|Default">
   <MonoDevelop.Ide.ItemProperties.BethanysPieShop PreferredExecutionTarget="/Applications/Firefox.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BethanysPieShop/Views/Pie/List.cshtml">
+    <Files>
+      <File FileName="BethanysPieShop/Models/Category.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShop/Views/Pie/List.cshtml" Line="18" Column="8" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BethanysPieShop" expanded="True" selected="True">
+          <Node name="BethanysPieShop" expanded="True">
             <Node name="BethanysPieShop" expanded="True">
               <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Pie" expanded="True">
+                  <Node name="List.cshtml" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
