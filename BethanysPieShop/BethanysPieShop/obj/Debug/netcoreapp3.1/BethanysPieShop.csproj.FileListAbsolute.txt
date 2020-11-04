@@ -20,3 +20,17 @@ D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1
 D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.pdb
 D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.genruntimeconfig.cache
 D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\RdbLog.txt
+D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.Views.dll
+D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.Views.pdb
+D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorAssemblyInfo.cache
+D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorAssemblyInfo.cs
+D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.TagHelpers.input.cache
+D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.TagHelpers.output.cache
+D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorCoreGenerate.cache
+D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\List.cshtml.g.cs
+D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorTargetAssemblyInfo.cs
+D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.Views.pdb
+D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csproj.CopyComplete
+D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
