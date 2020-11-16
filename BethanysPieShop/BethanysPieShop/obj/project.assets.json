@@ -8,28 +8,35 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/orlandolopez/.nuget/packages/": {}
+    "C:\\Users\\Orlando\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/BethanyspieShop/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj",
+      "projectUniqueName": "D:\\Repos\\BethanyspieShop\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
       "projectName": "BethanysPieShop",
-      "projectPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/BethanyspieShop/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj",
-      "packagesPath": "/Users/orlandolopez/.nuget/packages/",
-      "outputPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/BethanyspieShop/BethanysPieShop/BethanysPieShop/obj/",
+      "projectPath": "D:\\Repos\\BethanyspieShop\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+      "packagesPath": "C:\\Users\\Orlando\\.nuget\\packages\\",
+      "outputPath": "D:\\Repos\\BethanyspieShop\\BethanysPieShop\\BethanysPieShop\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/orlandolopez/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Orlando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -41,6 +48,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -59,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
