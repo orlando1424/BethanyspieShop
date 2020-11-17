@@ -112,3 +112,4 @@ D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1
 D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csprojAssemblyReference.cache
 D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\BethanysPieShop.styles.css
 D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
+D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PieCard.cshtml.g.cs
