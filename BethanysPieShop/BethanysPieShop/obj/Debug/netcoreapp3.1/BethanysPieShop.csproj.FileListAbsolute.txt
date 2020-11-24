@@ -109,7 +109,6 @@ D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1
 D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csprojAssemblyReference.cache
 D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\BethanysPieShop.styles.css
 D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
 D:\Repos\BethanyspieShop\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PieCard.cshtml.g.cs
